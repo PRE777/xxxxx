@@ -12,7 +12,6 @@
     "dependencies": {
         "axios": "^0.21.0",
         "cesium": "^1.61.0",
-        "cesium-heatmap": "0.0.4",
         "cesium-navigation-es6": "^1.0.9",
         "core-js": "^3.6.5",
         "element-ui": "^2.14.0",

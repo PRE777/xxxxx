@@ -14,7 +14,6 @@ import { defaultInitCesium } from "../../assets/js/MapInit";
 import CesiumNavigation from "cesium-navigation-es6";
 import { mapControl } from "../../assets/js/tool/MapControl";
 import targetForLocationComponent from "../targets/TargetLocation.vue";
-import { createHeatMap } from "../../assets/js/AddHeatMap";
 var Cesium = require("cesium/Cesium");
 export default {
   data() {

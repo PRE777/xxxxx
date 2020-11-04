@@ -61,7 +61,7 @@ module.exports = {
         config
             .plugin('html')
             .tap(args => {
-                args[0].title = 'Vue3.0测试demo'
+                args[0].title = 'XXXXX'
                 return args
             })
     },
